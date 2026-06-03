@@ -1,3 +1,6 @@
+// Entry point for Group 4 Library Management System
+// Authors: Krishna, Sunil
+// Last updated: May 2025
 import services.LibraryService;
 import models.Loan;
 import models.Member;
