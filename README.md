@@ -2,6 +2,7 @@
 **Group 4 – Assessment C | Java**
 
 ## Requirements
+> Tested with Java 21 (OpenJDK)
 - Java 17 or higher
 - No external libraries needed
 
@@ -68,3 +69,5 @@ LibrarySystemJava/
 | Polymorphism     | `getBorrowLimit()` returns 3 (Member) or 6 (PremiumMember)        |
 | Interface        | `IDao<T>` enforces CRUD contract on all DAO classes                |
 | DAO Pattern      | Data access fully separated from business logic in LibraryService  |
+
+> Last updated: May 2025
